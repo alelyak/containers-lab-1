@@ -5,7 +5,7 @@ RUN apk add --no-cache git
 # Рабочая директория
 WORKDIR /app 
 # Копирование файлов зависимостей
-COPY go.mod  ./ 
+COPY go.mod go.sum ./ 
 # Загрузка зависимостей
 RUN go mod download
 RUN go get containers-lab-1
