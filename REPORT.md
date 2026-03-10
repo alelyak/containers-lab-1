@@ -114,8 +114,11 @@
 ### 3. GitHub Actions
 #### 3.1 Успешный запуск workflow
 <img width="2865" height="1715" alt="image" src="https://github.com/user-attachments/assets/455e7dd5-7365-4756-baf7-eb85bbb00ce8" />
-
 #### 3.2 Опубликованные образы в GHCR
+<img width="2879" height="1573" alt="image" src="https://github.com/user-attachments/assets/31bb9c92-1e89-40f0-8c1c-57bb44b7cf9b" />
 
 ### 4. Выводы
-[Опишите, что нового узнали, с какими трудностями столкнулись]
+В ходе выполнения практической работы я: освоила основные команды Docker для управления контейнерами, образами и томами, научилась писать Dockerfile с multi-stage сборкой, создала многокомпонентное приложение на Go с PostgreSQL и Nginx, настроила CI/CD пайплайн в GitHub Actions для автоматической сборки образов, успешно опубликовала образы в GitHub Container Registry (GHCR).
+Основные трудности, с которыми столкнулась: конфликты портов с уже запущенными сервисами, настройка GitHub Actions и исправление ошибок в workflow
+
+
