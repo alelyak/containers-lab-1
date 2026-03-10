@@ -5,7 +5,8 @@
 ### 1. Выполненные команды Docker
 #### 1.1 Работа с образами
 \`\`\`
-[вставьте вывод docker images либо скриншоты]
+<img width="1533" height="820" alt="image" src="https://github.com/user-attachments/assets/fe60827b-9d00-4399-9186-0dc84162a6b7" />
+
 \`\`\`
 #### 1.2 Работа с контейнерами
 \`\`\`
