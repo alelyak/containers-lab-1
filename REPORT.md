@@ -45,6 +45,14 @@
 <img width="2257" height="606" alt="image" src="https://github.com/user-attachments/assets/c9818605-9000-4725-9101-2e2cab966a4b" />
 Просмотр логов контейнера
 <img width="2376" height="1055" alt="image" src="https://github.com/user-attachments/assets/da7a8ea6-a05b-442d-b58b-1e2736686610" />
+Подключение к работающему контейнеру
+<img width="1645" height="844" alt="image" src="https://github.com/user-attachments/assets/2d2d158e-141c-47fc-a450-0b105c6c0916" />
+Остановка контейнера
+<img width="1057" height="83" alt="image" src="https://github.com/user-attachments/assets/3474aeda-40d1-4ee0-80db-01087f2f7f18" />
+Запуск остановленного контейнера
+<img width="1070" height="102" alt="image" src="https://github.com/user-attachments/assets/5419b2da-e561-48f2-ba71-e8b8dac62e00" />
+Удаление контейнера
+<img width="1054" height="109" alt="image" src="https://github.com/user-attachments/assets/9fc27ec8-6fdf-481b-a5d0-9965b30fa5ed" />
 
 #### 1.3 Работа с томами
 \`\`\`
