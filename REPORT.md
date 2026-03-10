@@ -103,10 +103,13 @@
 
 ### 2. Скриншоты работающего приложения
 #### 2.1 Главная страница
+<img width="2879" height="1596" alt="image" src="https://github.com/user-attachments/assets/60f08c9e-7967-4e9e-a7fa-9d3835b38c6f" />
 
 #### 2.2 Добавление пользователя
+<img width="2773" height="1707" alt="image" src="https://github.com/user-attachments/assets/b2e866f2-9d90-4749-93c4-19d76d30dfd4" />
 
 #### 2.3 Список пользователей в БД
+<img width="1695" height="389" alt="image" src="https://github.com/user-attachments/assets/6295298f-7a35-4744-bbea-280dce8d6a47" />
 
 ### 3. GitHub Actions
 #### 3.1 Успешный запуск workflow
