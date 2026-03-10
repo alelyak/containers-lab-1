@@ -113,6 +113,7 @@
 
 ### 3. GitHub Actions
 #### 3.1 Успешный запуск workflow
+<img width="2865" height="1715" alt="image" src="https://github.com/user-attachments/assets/455e7dd5-7365-4756-baf7-eb85bbb00ce8" />
 
 #### 3.2 Опубликованные образы в GHCR
 
