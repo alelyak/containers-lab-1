@@ -93,17 +93,25 @@
 Проверка связи между контейнерами
 <img width="1040" height="209" alt="image" src="https://github.com/user-attachments/assets/c84eff22-1abb-43c4-92dc-ea207a8a37d8" />
 
+## Практическое задание
+Создание сети my-bridge-network
+<img width="1028" height="129" alt="image" src="https://github.com/user-attachments/assets/8a17bbf0-c458-410b-b722-0e952d971104" />
+Запуск контейнеров postgres и nginx в одной сети и проверка их взаимодействия:
+<img width="1895" height="114" alt="image" src="https://github.com/user-attachments/assets/901f2b14-4ea5-44b4-854c-2d09f6478292" />
+<img width="1216" height="101" alt="image" src="https://github.com/user-attachments/assets/9fb7b703-291a-435f-a7b9-cbbbeb14a2aa" />
+<img width="1046" height="233" alt="image" src="https://github.com/user-attachments/assets/1ac2b8e6-199f-4ec1-84d0-deff4d54aa1f" />
+
 ### 2. Скриншоты работающего приложения
 #### 2.1 Главная страница
-![Главная страница](screenshots/main-page.png)
+
 #### 2.2 Добавление пользователя
-![Добавление пользователя](screenshots/add-user.png)
+
 #### 2.3 Список пользователей в БД
-![PostgreSQL](screenshots/postgres-data.png)
+
 ### 3. GitHub Actions
 #### 3.1 Успешный запуск workflow
-![GitHub Actions](screenshots/github-actions.png)
+
 #### 3.2 Опубликованные образы в GHCR
-![GHCR Packages](screenshots/ghcr-packages.png)
+
 ### 4. Выводы
 [Опишите, что нового узнали, с какими трудностями столкнулись]
