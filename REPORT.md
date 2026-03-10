@@ -10,7 +10,12 @@
 <img width="1492" height="489" alt="image" src="https://github.com/user-attachments/assets/98ee19f9-b550-4a99-abd5-c728c738bedb" />
 Просмотр локальных образов
 <img width="1085" height="290" alt="image" src="https://github.com/user-attachments/assets/8c29ed9a-2035-4637-a661-464cc1351a28" />
+Просмотр истории слоев образа
+<img width="1569" height="647" alt="image" src="https://github.com/user-attachments/assets/16952c2b-8963-48eb-be0a-18a6cb04b13f" />
+Удаление образа
+<img width="1184" height="144" alt="image" src="https://github.com/user-attachments/assets/cba44fa3-6284-4c10-8815-e10c6f8f8ae5" />
 
+#Практическое задание
 #### 1.2 Работа с контейнерами
 \`\`\`
 [вставьте вывод docker ps -a либо скриншоты]
