@@ -25,14 +25,6 @@
 <img width="1559" height="399" alt="image" src="https://github.com/user-attachments/assets/c5eae739-b454-4e74-995e-dbdc6d811881" />
 Просмотр локальных образов
 <img width="1144" height="350" alt="image" src="https://github.com/user-attachments/assets/bdc631df-2e89-4c22-8853-323d4965c320" />
-Подключение к работающему контейнеру
-<img width="1610" height="839" alt="image" src="https://github.com/user-attachments/assets/a7d9e115-4c9d-41dd-a4c3-fb81db3c9c64" />
-Остановка контейнера
-<img width="1060" height="113" alt="image" src="https://github.com/user-attachments/assets/6e1f208b-cde4-4efa-8745-180a76a05c9f" />
-Запуск остановленного контейнера
-<img width="1113" height="117" alt="image" src="https://github.com/user-attachments/assets/664c65f5-6e95-450e-87f8-0b0fe4c7c5cd" />
-Удаление контейнера
-<img width="1067" height="101" alt="image" src="https://github.com/user-attachments/assets/923facac-fe2e-4275-9bdd-7ec32ca213d7" />
 
 #### 1.2 Работа с контейнерами
 Запуск контейнера alpine в интерактивном режиме и выполнение команд внутри контейнера
