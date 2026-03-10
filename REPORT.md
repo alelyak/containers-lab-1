@@ -14,7 +14,8 @@
 <img width="1569" height="647" alt="image" src="https://github.com/user-attachments/assets/16952c2b-8963-48eb-be0a-18a6cb04b13f" />
 Удаление образа
 <img width="1184" height="144" alt="image" src="https://github.com/user-attachments/assets/cba44fa3-6284-4c10-8815-e10c6f8f8ae5" />
-##Практическое задание
+
+## Практическое задание
 Поиск образа postgres:15-alpine
 <img width="1331" height="765" alt="image" src="https://github.com/user-attachments/assets/44ca3686-29b5-47cd-bbbd-3fc0a35b95e7" />
 Скачивание образа postgres:15-alpine
@@ -46,10 +47,37 @@
 Удаление контейнера
 <img width="1054" height="109" alt="image" src="https://github.com/user-attachments/assets/9fc27ec8-6fdf-481b-a5d0-9965b30fa5ed" />
 
+## Практическое задание
+Запуск контейнера с PostgreSQL и выполнение команды psql в контейнере
+<img width="1632" height="422" alt="image" src="https://github.com/user-attachments/assets/1b22c210-3122-4a95-8cf3-54066d5dc204" />
+
 #### 1.3 Работа с томами
-\`\`\`
-[вставьте вывод docker volume ls либо скриншоты]
-\`\`\`
+Создание именованного тома
+<img width="1076" height="112" alt="image" src="https://github.com/user-attachments/assets/143c53ef-d722-4dcf-8000-9745187aeb58" />
+Просмотр томов
+<img width="1129" height="207" alt="image" src="https://github.com/user-attachments/assets/e78c6225-1364-4007-8fa6-dd81a60f3f80" />
+Информация о томе
+<img width="1026" height="369" alt="image" src="https://github.com/user-attachments/assets/fbe1b627-0e79-4116-bfb9-4e24d43e8042" />
+Запуск контейнера с томом
+<img width="2210" height="160" alt="image" src="https://github.com/user-attachments/assets/76223462-f0c8-4713-8f24-0a33f615ed76" />
+Создание тестовой таблицы
+<img width="1641" height="255" alt="image" src="https://github.com/user-attachments/assets/c2579cac-3b6a-4323-9532-a23c9c2f66f1" />
+Занесение данных в таблицу
+<img width="1643" height="229" alt="image" src="https://github.com/user-attachments/assets/184aa7b0-1595-4fa5-bf22-df22979df8f0" />
+Остановка и удаление контейнера (данные сохранятся в томе)
+<img width="1035" height="206" alt="image" src="https://github.com/user-attachments/assets/3eaa3401-a95d-4ad8-8d10-6157cee57f00" />
+Запуск нового контейнера с тем же томом
+<img width="2222" height="123" alt="image" src="https://github.com/user-attachments/assets/cbfb40cc-ffb5-4c63-8998-cd288d8bd2a5" />
+Проверка, что данные сохранились
+<img width="1674" height="331" alt="image" src="https://github.com/user-attachments/assets/8f1c7772-e50d-4d76-b549-dec70f67184e" />
+
+## Практическое задание
+Создание тома для статических файлов
+<img width="1032" height="106" alt="image" src="https://github.com/user-attachments/assets/fd01673a-0d40-473c-ada0-5d22bd54075d" />
+Запуск контейнера с nginx
+<img width="1377" height="103" alt="image" src="https://github.com/user-attachments/assets/b5e6ec43-bc15-48d9-b5df-223d92353ab8" />
+Копирование файла index.html внутрь контейнера
+
 ### 2. Скриншоты работающего приложения
 #### 2.1 Главная страница
 ![Главная страница](screenshots/main-page.png)
