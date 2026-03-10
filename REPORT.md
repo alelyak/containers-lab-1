@@ -4,10 +4,13 @@
 ## Дата выполнения: 10.03.2026
 ### 1. Выполненные команды Docker
 #### 1.1 Работа с образами
-\`\`\`
+Поиск образов в Docker Hub
 <img width="1533" height="820" alt="image" src="https://github.com/user-attachments/assets/fe60827b-9d00-4399-9186-0dc84162a6b7" />
+Скачивание образа
+<img width="1492" height="489" alt="image" src="https://github.com/user-attachments/assets/98ee19f9-b550-4a99-abd5-c728c738bedb" />
+Просмотр локальных образов
+<img width="1085" height="290" alt="image" src="https://github.com/user-attachments/assets/8c29ed9a-2035-4637-a661-464cc1351a28" />
 
-\`\`\`
 #### 1.2 Работа с контейнерами
 \`\`\`
 [вставьте вывод docker ps -a либо скриншоты]
