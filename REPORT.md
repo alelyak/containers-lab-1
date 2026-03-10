@@ -81,6 +81,18 @@
 Страница в браузере
 <img width="2879" height="1595" alt="image" src="https://github.com/user-attachments/assets/b9192c4c-d49f-4dd3-bdde-71da28a1d661" />
 
+
+#### Работа с сетью
+Создание сети
+<img width="1048" height="125" alt="image" src="https://github.com/user-attachments/assets/1c5bd540-0608-4792-b0f6-7dc36e953472" />
+Просмотр сетей
+<img width="1053" height="252" alt="image" src="https://github.com/user-attachments/assets/e258b6b5-d06e-45db-95b7-71a8eb13c996" />
+Запуск контейнеров в одной сети
+<img width="1806" height="120" alt="image" src="https://github.com/user-attachments/assets/acc23190-1cec-440f-bdb0-9fe3b3b9ff01" />
+<img width="1088" height="110" alt="image" src="https://github.com/user-attachments/assets/cc801b02-1a49-41f7-88fc-1d6102d1bd10" />
+Проверка связи между контейнерами
+<img width="1040" height="209" alt="image" src="https://github.com/user-attachments/assets/c84eff22-1abb-43c4-92dc-ea207a8a37d8" />
+
 ### 2. Скриншоты работающего приложения
 #### 2.1 Главная страница
 ![Главная страница](screenshots/main-page.png)
