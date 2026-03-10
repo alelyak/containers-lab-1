@@ -14,8 +14,18 @@
 <img width="1569" height="647" alt="image" src="https://github.com/user-attachments/assets/16952c2b-8963-48eb-be0a-18a6cb04b13f" />
 Удаление образа
 <img width="1184" height="144" alt="image" src="https://github.com/user-attachments/assets/cba44fa3-6284-4c10-8815-e10c6f8f8ae5" />
+##Практическое задание
+Поиск образа postgres:15-alpine
+<img width="1331" height="765" alt="image" src="https://github.com/user-attachments/assets/44ca3686-29b5-47cd-bbbd-3fc0a35b95e7" />
+Скачивание образа postgres:15-alpine
+<img width="1559" height="528" alt="image" src="https://github.com/user-attachments/assets/752ea65f-e896-42a6-a27e-89162a391606" />
+Поиск образа golang:1.21-alpine
+<img width="1313" height="751" alt="image" src="https://github.com/user-attachments/assets/83b4ab6e-fc5c-4f31-a0b5-26fd6a2e1952" />
+Скачивание образа golang:1.21-alpine
+<img width="1559" height="399" alt="image" src="https://github.com/user-attachments/assets/c5eae739-b454-4e74-995e-dbdc6d811881" />
+Просмотр локальных образов
+<img width="1144" height="350" alt="image" src="https://github.com/user-attachments/assets/bdc631df-2e89-4c22-8853-323d4965c320" />
 
-#Практическое задание
 #### 1.2 Работа с контейнерами
 \`\`\`
 [вставьте вывод docker ps -a либо скриншоты]
