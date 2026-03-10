@@ -78,6 +78,8 @@
 <img width="1377" height="103" alt="image" src="https://github.com/user-attachments/assets/b5e6ec43-bc15-48d9-b5df-223d92353ab8" />
 Копирование файла index.html внутрь контейнера
 <img width="1029" height="100" alt="image" src="https://github.com/user-attachments/assets/fe3be6eb-aee7-42b9-bc0a-9fe49dfdef62" />
+Страница в браузере
+<img width="2879" height="1595" alt="image" src="https://github.com/user-attachments/assets/b9192c4c-d49f-4dd3-bdde-71da28a1d661" />
 
 ### 2. Скриншоты работающего приложения
 #### 2.1 Главная страница
