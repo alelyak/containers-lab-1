@@ -64,4 +64,3 @@ data:
       ('Pod Master'),
       ('DevOps Engineer')
     ON CONFLICT DO NOTHING;
-
