@@ -77,10 +77,6 @@
 
 ![Выполнение команд в поде](screenshots-lab2/image20.png)
 
-Просмотр метрик
-
-![Просмотр метрик](screenshots-lab2/image21.png)
-
 Удаление пода
 
 ![Удаление пода](screenshots-lab2/image22.png)
