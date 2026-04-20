@@ -42,7 +42,7 @@ spec:
               cpu: "500m"
       volumes:
         - name: postgres-data
-          emptyDir: {}
+          emptyDir: { }
         - name: init-script
           configMap:
             name: postgres-init-sql
