@@ -1,3 +1,4 @@
+---
 apiVersion: v1
 kind: Pod
 metadata:
@@ -20,3 +21,4 @@ spec:
         limits:
           memory: "128Mi"
           cpu: "500m"
+
